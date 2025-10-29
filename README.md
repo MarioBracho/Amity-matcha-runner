@@ -1,4 +1,4 @@
-# 🍹 Amatcha Runner - Z principu nevhodné pro zlé lidi.
+# 🍹 Amity matcha Runner - Z principu nevhodné pro zlé lidi.
 
 ## 🎮 Jak hrát
 
